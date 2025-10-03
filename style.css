@@ -176,7 +176,7 @@
         
         .hero-container {
             height: 100vh;
-            background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://cdn.mos.cms.futurecdn.net/rbhkesBCE5rC3d9zpngefL.jpg');
+            background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('pool_main.png');
             background-size: cover;
             background-position: center;
             display: flex;
